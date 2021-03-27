@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name tpcharger)(type Legacy)(uri ${KIPRJMOD}/tpcharger.lib)(options "")(descr ""))
+  (lib (name sharptag-rescue)(type Legacy)(uri ${KIPRJMOD}/sharptag-rescue.lib)(options "")(descr ""))
+  (lib (name reg710na)(type Legacy)(uri ${KIPRJMOD}/reg710na.lib)(options "")(descr ""))
 )
