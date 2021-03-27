@@ -2498,4 +2498,37 @@ Text Label 5600 2550 2    50   ~ 0
 D1
 Wire Wire Line
 	5600 2550 4950 2550
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 60612DFD
+P 10500 3600
+F 0 "H5" H 10600 3646 50  0000 L CNN
+F 1 "MountingHole" H 10600 3555 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 10500 3600 50  0001 C CNN
+F 3 "~" H 10500 3600 50  0001 C CNN
+	1    10500 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 6061317A
+P 10500 3750
+F 0 "H6" H 10600 3796 50  0000 L CNN
+F 1 "MountingHole" H 10600 3705 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 10500 3750 50  0001 C CNN
+F 3 "~" H 10500 3750 50  0001 C CNN
+	1    10500 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 6061331A
+P 10500 3900
+F 0 "H7" H 10600 3946 50  0000 L CNN
+F 1 "MountingHole" H 10600 3855 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 10500 3900 50  0001 C CNN
+F 3 "~" H 10500 3900 50  0001 C CNN
+	1    10500 3900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
